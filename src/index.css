@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* full‐page background image */
+body {
+  background-image: url('/public/background.jpg');
+  background-size: cover;
+  background-position: center;
+}
